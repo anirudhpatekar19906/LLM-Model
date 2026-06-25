@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyTorch / Model Weights (Usually too large for GitHub)
+*.pth
+*.pkl
+*.pt
+*.bin
+*.h5
+
+# Large Data Files
+*.txt
+*.csv
+*.jsonl
+# If you want to keep full_book.txt, remove the *.txt line above
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+.claude
+cuda
+intel_gpu
