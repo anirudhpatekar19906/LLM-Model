@@ -65,7 +65,7 @@ The current model configuration in `model_brain.py` uses the following settings:
 
 ## 👤 Author
 **Anirudhpatekar**  
-GitHub: [@anirudhpatekar](https://github.com/anirudhpatekar19906)
+GitHub: [@anirudhpatekar19906](https://github.com/anirudhpatekar19906)
 
 ## 📜 License
 This project is developed for educational purposes. it is open for anyone to use, modify, and build upon freely.
